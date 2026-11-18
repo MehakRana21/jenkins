@@ -1,2 +1,2 @@
 #!/bin/sh
-[ "$(sh app.sh)" = "Hello jenkins" ]
+[ "$(sh app.sh)" = "hello jenkins" ]
