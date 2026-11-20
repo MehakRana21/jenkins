@@ -1,1 +1,1 @@
-"hello jenkins"
+echo "hello jenkins"
